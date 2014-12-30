@@ -1,0 +1,24 @@
+{
+  "name": "Jerusalem Linux",
+  "url": "http://jlc.shared.mirimar.net/",
+  "location": {
+    "city": "Jerusalem",
+    "country": "IL",
+    "lat": 31.7833,
+    "lon": 35.2167
+  },
+  "contact": {
+    "email": "sandman@cs.huji.ac.il"
+  },
+  "timeline": [
+    {
+      "description": "First meeting of the club renewed",
+      "timestamp": "2004-09-05",
+      "url": "http://jlc.shared.mirimar.net/?page=gallery/2004/09/05/index"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-30T17:19:00.536Z"
+  },
+  "api": "1.0.1"
+}

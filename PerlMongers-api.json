@@ -1,0 +1,26 @@
+{
+  "name": "Perl Mongers",
+  "url": "http://perl.org.il/",
+  "location": {
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.0833,
+    "lon": 34.8
+  },
+  "contact": {
+    "email": "web_HATESPAM_master@perl.org.il",
+    "facebook": "http://www.facebook.com/Israeli.Perl.Mongers",
+    "googleplus": "https://plus.google.com/105209189901369984525/"
+  },
+  "timeline": [
+    {
+      "description": "The initial meeting, which took place at March 18, 2002, was a small meeting with only 6 people, no set agenda and no regular place to meet.",
+      "timestamp": "2002-03-18",
+      "url": "http://perl.org.il/meetings/2002/20020318.html"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-30T17:01:01.022Z"
+  },
+  "api": "1.0.1"
+}
