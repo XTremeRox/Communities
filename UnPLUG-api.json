@@ -1,0 +1,24 @@
+{
+  "name": "UnPLUG",
+  "url": "http://web.uplug.org/",
+  "location": {
+    "city": "Quezon City",
+    "country": "PH",
+    "lat": 14.6333,
+    "lon": 121.0333
+  },
+  "contact": {
+    "email": "info@uplug.org"
+  },
+  "timeline": [
+    {
+      "description": "It was a relaxing Sunday morning on July 20, 2003 when nine students met with the former UP President, Francisco Nemenzo Jr., at the Executive House for a seminar. Discussion revolved around Free and Open Source Software (FOSS) and on how to bridge the digital divide. One of the solutions formulated was to form a student group advocating FOSS to penetrate the student and youth sector. Thus, the University of the Philippines Linux Users’ Group (UnPLUG) was born.   The nine students, namely Diwa del Mundo, Paolo Jerome Aromin, Eric John Arnaldo, Dean Michael Ancajas, Waldemar Bautista, Pio Ryan Lumongsod, Ardee Aram, Kyle Alaine Domingo, and Karl Redrick Santos, wasted no time in recruiting more members and in fulfilling the requirements for the recognition of the organization by the university. Despite the trouble of losing important documents on the day of the deadline, UnPLUG still somehow managed to be recognized.   After its recognition, UnPLUG began its journey to promote the use of FOSS and to advocate its philosophy through seminars, trainings, and software development, for the service of the University and the Filipino people.",
+      "timestamp": "2003-07-20",
+      "url": "http://web.uplug.org/#about-us"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-31T14:24:46.280Z"
+  },
+  "api": "1.0.1"
+}
