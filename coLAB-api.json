@@ -1,0 +1,20 @@
+{
+  "name": "coLAB",
+  "url": "http://colab-cambodia.com/",
+  "location": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.55,
+    "lon": 104.9167
+  },
+  "contact": {
+    "email": "admin@colab-cambodia.com",
+    "facebook": "http://www.facebook.com/pages/CoLAB-Cambodia/194778277287622",
+    "twitter": "@coLABcambodia"
+  },
+  "state": {
+    "logo": "http://colab-cambodia.com/wp-content/themes/colab/images/logoweb.png",
+    "lastchange": "2014-12-31T13:13:33.792Z"
+  },
+  "api": "1.0.1"
+}

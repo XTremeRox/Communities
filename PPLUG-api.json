@@ -1,0 +1,19 @@
+{
+  "name": "PPLUG",
+  "url": "http://www.pplug.net/",
+  "location": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.55,
+    "lon": 104.9167
+  },
+  "contact": {
+    "email": "admin@colab-cambodia.com",
+    "facebook": "http://www.facebook.com/pages/CoLAB-Cambodia/194778277287622",
+    "twitter": "@coLABcambodia"
+  },
+  "state": {
+    "lastchange": "2014-12-31T13:19:05.550Z"
+  },
+  "api": "1.0.1"
+}
