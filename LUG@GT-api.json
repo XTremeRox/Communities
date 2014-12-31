@@ -1,0 +1,24 @@
+{
+  "name": "LUG@GT",
+  "url": "http://lugatgt.org/",
+  "location": {
+    "city": "Atlanta",
+    "country": "GE",
+    "lat": 33.755,
+    "lon": 84.39
+  },
+  "contact": {
+    "email": "president@lugatgt.org"
+  },
+  "timeline": [
+    {
+      "description": "LUG@GT was officially chartered by the Georgia Tech SGA in late 1999 under the provisions of the LUG@GT Constitution. During the fall semester 1999, LUG@GT held its first two successful Linux InstallFests in the Georgia Tech College of Computing, sparking interest and use of the Linux operating system in Georgia Tech.",
+      "timestamp": "1999-12-1",
+      "url": "http://lugatgt.org/about-us/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-31T15:37:07.854Z"
+  },
+  "api": "1.0.1"
+}
