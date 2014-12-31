@@ -1,0 +1,24 @@
+{
+  "name": "Korea LUG",
+  "url": "http://www.lug.or.kr",
+  "location": {
+    "city": "Daegu",
+    "country": "KR",
+    "lat": 35.8667,
+    "lon": 128.6
+  },
+  "contact": {
+    "email": "multikty@gmail.com"
+  },
+  "state": {
+    "logo": "http://www.lug.or.kr/images_lug/top_peng_left.png",
+    "lastchange": "2014-12-31T12:04:01.058Z"
+  },
+  "timeline": [
+    {
+      "description": "Launched",
+      "timestamp": "1998-12-01"
+    }
+  ],
+  "api": "1.0.1"
+}
