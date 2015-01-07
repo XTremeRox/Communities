@@ -1,0 +1,19 @@
+{
+  "name": "GoogleTechnologyUserGroup(GTUG)",
+  "url": "http://www.gdgvientiane.org/",
+  "location": {
+    "city": "Vientiane",
+    "country": "LA",
+    "lat": 17.9667,
+    "lon": 102.6
+  },
+  "state": {
+    "logo": "http://www.gdgvientiane.org/images/logo-gdg.png",
+    "lastchange": "2015-01-07T01:59:26.015Z"
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/gdgvientiane",
+    "googleplus": "https://plus.google.com/u/0/118282269875743492487/about"
+  },
+  "api": "1.0.1"
+}
