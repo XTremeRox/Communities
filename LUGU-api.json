@@ -1,0 +1,18 @@
+{
+  "name": "LUGU",
+  "url": "http://makassar.linux.or.id/",
+  "location": {
+    "city": "Makassar",
+    "country": "ID",
+    "lat": 5.1333,
+    "lon": 119.4167
+  },
+  "contact": {
+    "email": "admin@makassar.linux.or.id"
+  },
+  "state": {
+    "logo": "http://linuxday.org/images/20110827095641/garland_logo.png",
+    "lastchange": "2015-01-14T16:04:04.983Z"
+  },
+  "api": "1.0.1"
+}
